@@ -869,8 +869,15 @@ select {
 
   &__copyright {
     @extend %lato-400;
-      font-size: 1rem;
-      letter-spacing: 0.02em;
+    background: -webkit-linear-gradient(45deg, #FFAA00, #FF1C00);
+    background: -moz-linear-gradient(45deg, #FFAA00, #FF1C00);
+    background: -o-linear-gradient(45deg, #FFAA00, #FF1C00);
+    background: linear-gradient(45deg, #FFAA00, #FF1C00);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 1rem;
+    letter-spacing: 0.02em;
   }
 }
 

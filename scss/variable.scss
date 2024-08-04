@@ -1,0 +1,49 @@
+$primary: #2F2F2F;
+$secondary: #D0B194;
+$white: #F8F8F8;
+$grey: #DEDEDE;
+%lato-400 {
+  font-family: 'Lato-Regular', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 400;
+  font-display: fallback;
+}
+%lato-400i {
+  font-family: 'Lato-Italic', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: italic;
+  font-weight: 400;
+  font-display: fallback;
+}
+%lato-700 {
+  font-family: 'Lato-Bold', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 700;
+  font-display: fallback;
+}
+%lato-700i {
+  font-family: 'Lato-BoldItalic', Tahoma, Geneva, Verdana, sans-serif;
+  font-style: italic;
+  font-weight: 700;
+  font-display: fallback;
+}
+%cormorant-400 {
+  font-family: "CormorantGaramond", Georgia, 'Times New Roman', Times, serif;
+  font-weight: 400;
+  font-display: fallback;
+}
+%cormorant-400i {
+  font-family: "CormorantGaramond", Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  font-weight: 400;
+  font-display: fallback;
+}
+%cormorant-700 {
+  font-family: "CormorantGaramond", Georgia, 'Times New Roman', Times, serif;
+  font-weight: 700;
+  font-display: fallback;
+}
+
+%cormorant-700i {
+  font-family: "CormorantGaramond", Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  font-weight: 700;
+  font-display: fallback;
+}

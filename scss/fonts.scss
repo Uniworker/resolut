@@ -1,0 +1,59 @@
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-display: fallback;
+  src: local('Lato-Regular.ttf') url('fonts/Lato-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 400;
+  font-display: fallback;
+  src: local('Lato-Italic.ttf') url('fonts/Lato-Italic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  font-display: fallback;
+  src: local('Lato-Bold.ttf') url('Lato-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 700;
+  font-display: fallback;
+  src: local('Lato-BoldItalic.ttf') url('Lato-BoldItalic.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'CormorantGaramond';
+  font-style: normal;
+  font-weight: 400;
+  font-display: fallback;
+  src: local('CormorantGaramond-Regular.ttf') url('fonts/CormorantGaramond-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'CormorantGaramond';
+  font-style: italic;
+  font-weight: 400;
+  font-display: fallback;
+  src: local('CormorantGaramond-Italic.ttf') url('fonts/CormorantGaramond-Italic.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'CormorantGaramond';
+  font-style: normal;
+  font-weight: 700;
+  font-display: fallback;
+  src: local('CormorantGaramond-Bold.ttf') url('fonts/CormorantGaramond-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'CormorantGaramond';
+  font-style: italic;
+  font-weight: 700;
+  font-display: fallback;
+  src: local('CormorantGaramond-BoldItalic.ttf') url('fonts/CormorantGaramond-BoldItalic.ttf') format('truetype');
+}
